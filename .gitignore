@@ -1,0 +1,6 @@
+data.db
+update_local.py
+venv.py
+__pycache__
+hello.py
+.env
